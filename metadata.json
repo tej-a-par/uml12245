@@ -1,0 +1,5 @@
+{
+  "name": "Copy of UML Diagram Generator",
+  "description": "A hybrid, two-stage system to generate accurate UML Class Diagrams from user requirements using Gemini, with an interactive refinement loop.",
+  "requestFramePermissions": []
+}
